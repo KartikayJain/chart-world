@@ -1,0 +1,16 @@
+Pid,Pname,Prate,Pcategory,Pquantity
+1001,Lux,55,Soap,10
+1002,Rin,95,Soap,25
+1003,Pepsi,25,Soft Drink,35
+1004,Projector,3500,Electronic,45
+1005,LCD,5500,Electronic,15
+1006,Camera,7500,Electronic,16
+1007,Pen,30,Stationary,18
+1008,Pencil,20,Stationary,26
+1009,Eraser,10,Stationary,15
+1010,Shirt,350,Garment,19
+1011,Shoe,900,Leather,17
+1012,Keyboard,1200,Electronics,23
+1013,Mouse,350,Electronic,35
+1014,Bag,650,Stationary,41
+1015,Chair,700,Furniture,26
