@@ -14,3 +14,88 @@ Pid,Pname,Prate,Pcategory,Pquantity
 1013,Mouse,350,Electronic,35
 1014,Bag,650,Stationary,41
 1015,Chair,700,Furniture,26
+1016,Dove,60,Soap,12
+1017,Colgate,85,Toiletries,30
+1018,Lifebuoy,45,Soap,22
+1019,Sprite,30,Soft Drink,28
+1020,Coca Cola,35,Soft Drink,40
+1021,Fanta,28,Soft Drink,33
+1022,LED TV,4200,Electronics,20
+1023,Smartphone,15000,Electronics,18
+1024,Tablet,18500,Electronics,10
+1025,Laptop,55000,Electronics,12
+1026,Notebook,50,Stationary,44
+1027,Marker,25,Stationary,38
+1028,Highlighter,30,Stationary,27
+1029,Trousers,800,Garment,15
+1030,Jacket,2500,Garment,8
+1031,Belt,350,Leather,19
+1032,Wallet,650,Leather,14
+1033,Sandals,750,Leather,11
+1034,Refrigerator,32000,Electronic,9
+1035,Washing Machine,28000,Electronic,7
+1036,Microwave,8500,Electronic,13
+1037,Desk,3000,Furniture,5
+1038,Bed,12000,Furniture,3
+1039,Sofa,25000,Furniture,2
+1040,Table Lamp,950,Furniture,12
+1041,Shampoo,120,Toiletries,24
+1042,Conditioner,150,Toiletries,18
+1043,Face Wash,180,Cosmetics,26
+1044,Foundation,500,Cosmetics,14
+1045,Lipstick,300,Cosmetics,22
+1046,Nail Polish,120,Cosmetics,30
+1047,Chips,20,Snacks,45
+1048,Biscuits,25,Snacks,50
+1049,Cookies,60,Snacks,28
+1050,Cake,250,Snacks,18
+1051,Bread,40,Grocery,55
+1052,Rice,70,Grocery,60
+1053,Wheat Flour,65,Grocery,58
+1054,Sugar,45,Grocery,53
+1055,Tea,250,Beverages,32
+1056,Coffee,450,Beverages,21
+1057,Green Tea,300,Beverages,18
+1058,Juice,80,Beverages,29
+1059,Toy Car,500,Toys,17
+1060,Doll,450,Toys,20
+1061,Puzzle,350,Toys,15
+1062,Board Game,1200,Toys,10
+1063,Action Figure,750,Toys,13
+1064,Perfume,1500,Cosmetics,9
+1065,Deodorant,250,Toiletries,19
+1066,Hand Sanitizer,90,Toiletries,35
+1067,Water Bottle,150,Stationary,40
+1068,School Bag,850,Stationary,28
+1069,Calculator,650,Stationary,22
+1070,Printer,8000,Electronics,7
+1071,Scanner,6500,Electronics,6
+1072,Monitor,10500,Electronics,8
+1073,Headphones,2500,Electronics,15
+1074,Speakers,3200,Electronics,12
+1075,Router,1800,Electronics,14
+1076,USB Drive,500,Electronics,20
+1077,Memory Card,800,Electronics,18
+1078,Smartwatch,4500,Electronics,9
+1079,Drone,35000,Electronics,4
+1080,Tripod,1500,Electronics,11
+1081,Mic,3000,Electronics,6
+1082,Power Bank,1200,Electronics,19
+1083,Charger,700,Electronics,25
+1084,HDMI Cable,350,Electronics,30
+1085,Extension Board,650,Electronics,17
+1086,Electric Kettle,2200,Electronics,13
+1087,Blender,3200,Electronics,8
+1088,Toaster,2500,Electronics,10
+1089,Mixer Grinder,4000,Electronics,9
+1090,Hair Dryer,3500,Electronics,7
+1091,Straightener,3000,Electronics,6
+1092,Curtains,2500,Furniture,5
+1093,Mattress,15000,Furniture,4
+1094,Wall Clock,1200,Furniture,8
+1095,Mirror,1800,Furniture,7
+1096,Doormat,450,Furniture,10
+1097,Carpet,7500,Furniture,3
+1098,Showpiece,1500,Furniture,6
+1099,Vase,1200,Furniture,5
+1100,Photo Frame,900,Furniture,9
